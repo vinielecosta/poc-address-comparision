@@ -1,4 +1,7 @@
 using System.ComponentModel;
+
+namespace VEC_poc_adress_comparison.Models;
+
 public enum UF
 {
     [Description("Acre")] AC,

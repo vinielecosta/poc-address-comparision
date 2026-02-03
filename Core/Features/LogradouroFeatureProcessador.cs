@@ -1,18 +1,14 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ProcessEngine.Features
+namespace VEC_poc_adress_comparison.Core.Features
 {
     /// <summary>
     /// Processa features relacionadas a logradouros para comparação de endereços.
     /// </summary>
-    public class LogradouroFeatureProcessor
+    public class LogradouroFeatureProcessador
     {
         /// <summary>
         /// Inicializa uma nova instância da classe LogradouroFeatureProcessor.
         /// </summary>
-        public LogradouroFeatureProcessor()
+        public LogradouroFeatureProcessador()
         {
         }
 
