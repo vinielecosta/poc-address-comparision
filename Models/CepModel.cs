@@ -1,0 +1,1 @@
+public record CepModel(string InitialCep,string EndCep);
