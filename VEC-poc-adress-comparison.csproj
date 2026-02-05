@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="FuzzySharp" Version="2.0.2" />
+    <PackageReference Include="String.Similarity" Version="3.0.0" />
   </ItemGroup>
 
 </Project>

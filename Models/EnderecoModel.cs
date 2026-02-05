@@ -1,7 +1,7 @@
 namespace VEC_poc_adress_comparison.Models;
 
 public record EnderecoModel(
-    CepModel Cep,
+    CepModel CEP,
     int Numero,
     string Logradouro,
     string Bairro,
